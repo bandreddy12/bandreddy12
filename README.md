@@ -1,2 +1,2 @@
 deploy to container option
-poll scm testing
+poll scm
