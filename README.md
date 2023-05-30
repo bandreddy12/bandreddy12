@@ -1,2 +1,1 @@
-deploy to container
-poll scm
+web hooks testing
