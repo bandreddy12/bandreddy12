@@ -1,2 +1,2 @@
-deploy to container option
+deploy to container
 poll scm
